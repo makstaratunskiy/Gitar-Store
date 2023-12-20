@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Gitar Store</title>
+      <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+      <header>
+        <img src="https://papik.pro/grafic/uploads/posts/2023-04/1681581527_papik-pro-p-gitara-logotip-vektor-8.png" height="100px" width="100px"/>
+        <nav>
+        <a href="#Gitar">Гітари</a>
+        <a href="#Equipment">Гітарне обладнання</a>
+        <a href="#Accessories">Аксесуари</a>
+        </nav>
+      </header>
+      <main>
+        <h1>Gitar Store</h1>
+        <h2 id="Gitar" >Гітари</h2>
+        <p><img src="https://proaudio.ua/storage/cache/product/8b/import_files/8b/8b5eeba1e43e11eaaf67a4badb294cfa_f25f5e5dfb2d11eaaf69a4badb294cfa.jpg"height="250px" width="250px"/>
+        <img src="https://proaudio.ua/storage/cache/product/77/import_files/77/77135818e7b011eaaf67a4badb294cfa_3f05988d930011ebaf73a4badb294cf6.jpg" height="250px" width="250px"/>
+        <img src="https://proaudio.ua/storage/cache/product/ee/import_files/ee/eea9fe0889bb11e8889428565aa376fe_d567eb19b88111ebaf75a4badb294cfa.jpg" height="250px" width="250px"/></p>
+        <p class="tg"><b><i>ГІТАРИ:</i></b> Класичні гітари, Акустичні гітари, Укулеле, Електрогітари, Бас-гітари</p>
+        <h2 id="Equipment" >Гітарне обладнання</h2>
+        <h3>Чохли для гітар</h3>
+        <p><img src="https://proaudio.ua/storage/cache/product/c9/import_files/c9/c9d929bea76511ebaf74a4badb294cfc_c90e14edb8bf11ebaf75a4badb294cfa.jpg" height="250px" width="250px"/>
+        <img src="https://proaudio.ua/storage/cache/product/26/import_files/26/267ee3d9ce0211e888a728565aa376fe_267ee3dace0211e888a728565aa376fe.jpg" height="250px" width="250px"/>
+        <img src="https://proaudio.ua/storage/cache/product/c6/import_files/c6/c67a7c21e50311eaaf67a4badb294cfa_ab014c77123411ecafaba4badb294cf8.jpg" height="250px" width="250px""/> </p>
+        <p class="tg"><b><i>ЧОХЛИ ДЛЯ:</i></b> Класичних гітар, Акустичних гітар, Укулеле, Електрогітар, Бас-гітар</p>
+        <h3>Струни</h3>
+        <p><img src="https://proaudio.ua/storage/cache/product/b3/import_files/b3/b38b588fe3ea11eaaf67a4badb294cfa_c94166cf2a4311ebaf6ca4badb294cfc.jpg" height="250px" width="250px"/>
+        <img src="https://proaudio.ua/storage/cache/product/5b/import_files/5b/5b211f45e50411eaaf67a4badb294cfa_56df6365070c11ebaf6ba4badb294cf6.jpg" height="250px" width="250px"/>
+        <img src="https://proaudio.ua/storage/cache/product/aa/import_files/aa/aa7f3c17e3ea11eaaf67a4badb294cfa_c94166d32a4311ebaf6ca4badb294cfc.jpg" height="250px" width="250px"/></p>
+        <p class="tg"><b><i>СТРУНИ ДЛЯ:</i></b> Класичних гітар, Акустичних гітар, Укулеле, Електрогітар, Бас-гітар</p>
+        <h2 id="Accessories" >Аксесуари</h2>
+        <h3>Медіатори</h3>
+        <p><img src="https://proaudio.ua/storage/cache/product/71/import_files/71/7193063ce3e911eaaf67a4badb294cfa_e121e7da28bf11ebaf6ca4badb294cfc.jpg" height="250px" width="250px"/>
+        <img src="https://proaudio.ua/storage/cache/product/5e/import_files/5e/5e8bce4e38a411ebaf6da4badb294cf6_94f01fe47a8011ebaf71a4badb294cfa.jpg" height="250px" width="250px"/><
+        <img src="https://proaudio.ua/storage/cache/product/b2/import_files/b2/b20ff0faeec211ebaf7da4badb294cfc_38d5ed2ef6c611ebaf81a4badb294cfc.jpg" height="250px" width="250px"/></p>
+        <h3>Каподастри</h3>
+        <p><img src="https://proaudio.ua/storage/cache/product/84/import_files/84/8444751838a411ebaf6da4badb294cf6_730963907da611ebaf71a4badb294cfa.jpg" height="250px" width="250px"/>
+        <img src="https://proaudio.ua/storage/cache/product/75/import_files/75/752a3cac38a411ebaf6da4badb294cf6_7309638d7da611ebaf71a4badb294cfa.jpg" height="250px" width="250px"/>
+        <img src="https://proaudio.ua/storage/cache/product/47/import_files/47/479b8b72e43911eaaf67a4badb294cfa_68baa6c2570311ebaf6fa4badb294cf6.jpg" height="250px" width="250px"/></p>
+      </main>
+      <footer>
+        <p><b>Контакти</b></p>
+            <p>Адреса: місто Рівне вул.Дубенська</p>
+            <p>Телефон: 32-55-55</p>
+            <br/>
+            <a href="">Зв`язатися</a>
+        
+      </footer>
+    </body>
+</html>
